@@ -1,0 +1,1 @@
+# Human-Activity-Recognition-with-Postural-Transition-HARPT-Using-Smartphone-Sensors
